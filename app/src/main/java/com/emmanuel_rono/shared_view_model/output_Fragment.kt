@@ -30,8 +30,3 @@ class output_Fragment : Fragment(R.layout.fragment_output) {
 
 
 
-
-
-#1.Make fragment aware of the scope
-        lateinit var sharedViewModel:sharedViewModel by ActivityViewModel()
-lateinit var binding
